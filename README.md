@@ -1,4 +1,4 @@
-# Practical 7
+# Practical 
 
 ## Content
 This is the repository for Practical 7 
